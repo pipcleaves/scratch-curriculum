@@ -12,14 +12,14 @@ The 'Balloons' project has been moved to the [Additional Scratch Projects](http:
 
 # Introduction { .intro }
 
-You are going to make a ghost-catching game!
+You are going to make an NRL Rugby League Goal Kicking Game!
 
 <div class="scratch-preview">
-	<iframe allowtransparency="true" width="485" height="402" src="http://scratch.mit.edu/projects/embed/60787262/?autostart=false" frameborder="0"></iframe>
-	<img src="ghost-final.png">
+	<iframe allowtransparency="true" width="485" height="402" src="http://scratch.mit.edu/projects/embed/158613585/?autostart=false" frameborder="0"></iframe>
+	<img src="goal-final.png">
 </div>
 
-# Step 1: Animating a ghost { .activity }
+# Step 1: Making your stage { .activity }
 
 ## Activity Checklist { .check }
 
